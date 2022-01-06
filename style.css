@@ -4,6 +4,7 @@ body{
 }
 .flexible{
     display: flex;
+    margin: 30px;
 }
 .two-hed{
     font-size: 30px;
@@ -26,4 +27,34 @@ body{
 }
 #first-image{
     width: 40%;
+}
+.center{
+    text-align: center;
+    font-size: 50px;
+   
+}
+.one-third1{
+    width: 33%;
+    background-color: powderblue;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.one-third2{
+    width: 33%;
+    background-color:gray;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.one-third3{
+    width: 33%;
+    background-color:darkgrey;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.illustrator{
+   width: 50%;
+   height: 50%; 
 }
