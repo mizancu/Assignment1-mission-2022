@@ -6,6 +6,12 @@ body{
     display: flex;
     margin: 30px;
 }
+.ancor{
+    text-decoration: none;
+    background-color: #ff9999;
+    border-radius: 10%;
+    padding: 10px;
+}
 .two-hed{
     font-size: 30px;
 }
@@ -23,6 +29,7 @@ body{
     background-position: right;
     margin: 20px;
     padding: 10px;
+
     
 }
 #first-image{
@@ -57,4 +64,23 @@ body{
 .illustrator{
    width: 50%;
    height: 50%; 
+}
+
+#cod-pic{
+    height: 400px;
+    width: 400px;
+}
+.left-right{
+    padding: 20px;
+    margin: 20px;
+}
+.right-left{
+    padding: 20px;
+    margin: 20px;
+}
+.footer{
+    text-align: center;
+    background-color: #333333;
+    color: #fff;
+    height: 100px;
 }
